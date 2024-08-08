@@ -4,7 +4,7 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
 
 ## 🛠️ Tecnologias que Uso
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
