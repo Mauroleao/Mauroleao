@@ -20,8 +20,8 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
 
 Sinta-se à vontade para entrar em contato se tiver dúvidas ou sugestões!
 
-- **E-mail**: [seuemail@example.com](mailto:bouwmanleao@gmail.com)
-- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/mauro-le%C3%A3o-b62b41260/)
+- **E-mail**: [Email](mailto:bouwmanleao@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mauro-le%C3%A3o-b62b41260/)
 
 Obrigado por visitar o meu perfil!
 
