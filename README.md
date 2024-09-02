@@ -2,6 +2,8 @@
 
 Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de projetos e códigos que refletem minhas habilidades e interesses em desenvolvimento de software.
 
+!Visitor Count
+
 ## 🛠️ Tecnologias que Uso
 
 <p align="left">
@@ -11,9 +13,6 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -27,8 +26,10 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
 </p>
-
 
 ## 📂 O Que Você Vai Encontrar Aqui
 
@@ -40,9 +41,13 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
 
 Sinta-se à vontade para entrar em contato se tiver dúvidas ou sugestões!
 
-- **E-mail**: [bouwmanleao@gmail.com](mailto:bouwmanleao@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mauro-le%C3%A3o-b62b41260/)
+- **E-mail**: bouwmanleao@gmail.com
+- **LinkedIn**: LinkedIn
 
 Obrigado por visitar o meu perfil!
 
 *Explore e aproveite os projetos!* 🚀
+
+!GitHub Stats
+!Top Langs
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
