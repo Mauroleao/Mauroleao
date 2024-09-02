@@ -9,6 +9,9 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
@@ -25,6 +28,7 @@ Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
 </p>
+
 
 ## 📂 O Que Você Vai Encontrar Aqui
 
