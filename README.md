@@ -48,6 +48,4 @@ Obrigado por visitar o meu perfil!
 
 *Explore e aproveite os projetos!* 🚀
 
-!GitHub Stats
-!Top Langs
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
+
