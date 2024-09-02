@@ -1,12 +1,10 @@
-# 👋 Bem-vindo ao Meu Repositório!
+# 👋 Welcome to My Repository!
 
-Resumo
-Desenvolvedor de Software com foco em inovação e automação de processos. Experiência significativa em desenvolvimento full stack, utilizando tecnologias como Python, Django, HTML, CSS, JavaScript, React e Bootstrap. Hábil em metodologias ágeis e colaboração em equipe. Busco novos desafios que me permitam aplicar minhas habilidades em desenvolvimento web e backend para criar soluções eficientes e inovadoras.
-
+I am Mauro, a Software Developer focused on innovation and process automation. I have significant experience in full stack development, using technologies such as Python, Django, HTML, CSS, JavaScript, React, and Bootstrap. Skilled in agile methodologies and team collaboration. I am looking for new challenges that allow me to apply my skills in web and backend development to create efficient and innovative solutions.
 
 !Visitor Count
 
-## 🛠️ Tecnologias que Uso
+## 🛠️ Technologies I Use
 
 <p align="left">
 
@@ -33,21 +31,19 @@ Desenvolvedor de Software com foco em inovação e automação de processos. Exp
   </a>
 </p>
 
-## 📂 O Que Você Vai Encontrar Aqui
+## 📂 What You Will Find Here
 
-- **Projetos e Repositórios**: Códigos-fonte e projetos em Python, C#, HTML, CSS e JavaScript.
-- **Exemplos de Código**: Trechos e projetos demonstrando técnicas e habilidades diversas.
-- **Documentação**: Instruções e guias para utilizar e contribuir para os projetos.
+- **Projects and Repositories**: Source codes and projects in Python, C#, HTML, CSS, and JavaScript.
+- **Code Examples**: Snippets and projects demonstrating various techniques and skills.
+- **Documentation**: Instructions and guides to use and contribute to the projects.
 
-## 📬 Contato
+## 📬 Contact
 
-Sinta-se à vontade para entrar em contato se tiver dúvidas ou sugestões!
+Feel free to reach out if you have any questions or suggestions!
 
-- **E-mail**: bouwmanleao@gmail.com
+- **Email**: bouwmanleao@gmail.com
 - **LinkedIn**: LinkedIn
 
-Obrigado por visitar o meu perfil!
+Thank you for visiting my profile!
 
-*Explore e aproveite os projetos!* 🚀
-
-
+*Explore and enjoy the projects!* 🚀
