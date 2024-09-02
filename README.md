@@ -1,6 +1,8 @@
 # 👋 Bem-vindo ao Meu Repositório!
 
-Olá! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma variedade de projetos e códigos que refletem minhas habilidades e interesses em desenvolvimento de software.
+Resumo
+Desenvolvedor de Software com foco em inovação e automação de processos. Experiência significativa em desenvolvimento full stack, utilizando tecnologias como Python, Django, HTML, CSS, JavaScript, React e Bootstrap. Hábil em metodologias ágeis e colaboração em equipe. Busco novos desafios que me permitam aplicar minhas habilidades em desenvolvimento web e backend para criar soluções eficientes e inovadoras.
+
 
 !Visitor Count
 
