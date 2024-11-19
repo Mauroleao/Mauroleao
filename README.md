@@ -31,7 +31,7 @@ Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou sugestão!
 
 Email: bouwmanleao@gmail.com
 
-LinkedIn: LinkedIn
+LinkedIn: www.linkedin.com/in/mauro-leao
 
 Obrigado por visitar meu perfil!
 
