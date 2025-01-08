@@ -1,38 +1,18 @@
-👋 Bem-vindo ao Meu Repositório!
-Eu sou o Mauro, um Desenvolvedor de Software focado em inovação e automação de processos. Tenho experiência significativa em desenvolvimento full stack, utilizando tecnologias como Python, Django, HTML, CSS, JavaScript, React e Bootstrap. Hábil em metodologias ágeis e colaboração em equipe. Estou em busca de novos desafios que me permitam aplicar minhas habilidades em desenvolvimento web e backend para criar soluções eficientes e inovadoras.
+# 💫 About Me:
+Bem-vindo ao Meu Repositório! Eu sou o Mauro, um Desenvolvedor de Software focado em inovação e automação de processos. Tenho experiência significativa em desenvolvimento full stack, utilizando tecnologias como Python, Django, HTML, CSS, JavaScript, React e Bootstrap. Hábil em metodologias ágeis e colaboração em equipe. Estou em busca de novos desafios que me permitam aplicar minhas habilidades em desenvolvimento web e backend para criar soluções eficientes e inovadoras.
 
 
-🛠️ Tecnologias que Eu Uso
-<p align="left">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mauro-leao) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mauroleao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mauroleao&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauroleao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Mauroleao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> </a>
-
-</p>
-
-📂 O Que Você Vai Encontrar Aqui
-Projetos e Repositórios: Códigos-fonte e projetos em Python, Java, HTML, CSS e JavaScript.
-
-Exemplos de Código: Snippets e projetos demonstrando várias técnicas e habilidades.
-
-Documentação: Instruções e guias para usar e contribuir com os projetos.
-
-📬 Contato
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou sugestão!
-
-Email: bouwmanleao@gmail.com
-
-LinkedIn: www.linkedin.com/in/mauro-leao
-
-Obrigado por visitar meu perfil!
-
-Explore e aproveite os projetos! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
