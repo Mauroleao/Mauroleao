@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Desenvolvedor **Python Fullstack | Apaixonado por Tecnologia e Desenvolvimento Ágil
+🔥 Desenvolvedor Python Fullstack | Apaixonado por Tecnologia e Desenvolvimento Ágil
 
 Sou um desenvolvedor em constante evolução, movido pela paixão por criar soluções robustas e performáticas. Com formação em 🎓 **Tecnologia em Ciência de Dados e Análise de Comportamento** e cursando 🚀 **Engenharia de Computação**, desenvolvi uma sólida base técnica e analítica que me permite atuar com confiança em projetos **Backend** complexos.
 
