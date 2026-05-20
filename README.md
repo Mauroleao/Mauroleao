@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Desenvolvedor **Backend Python | Java** | Apaixonado por Tecnologia e Desenvolvimento Ágil
+🔥 Desenvolvedor **Python Fullstack | Apaixonado por Tecnologia e Desenvolvimento Ágil
 
 Sou um desenvolvedor em constante evolução, movido pela paixão por criar soluções robustas e performáticas. Com formação em 🎓 **Tecnologia em Ciência de Dados e Análise de Comportamento** e cursando 🚀 **Engenharia de Computação**, desenvolvi uma sólida base técnica e analítica que me permite atuar com confiança em projetos **Backend** complexos.
 
@@ -9,7 +9,6 @@ Minha jornada é marcada pela curiosidade incessante, pela busca constante de me
 📌 Hard Skills:
 ✔️ Linguagens: **Python**, **Java**
 ✔️ Frameworks Python: **Django**, **FastAPI**
-✔️ Frameworks Java: **Spring Boot**, **Hibernate/JPA**
 ✔️ Bancos de Dados: **PostgreSQL**, **SQLite**, SQL
 ✔️ APIs: Construção de **REST APIs**
 ✔️ Conteinerização: **Docker**
@@ -35,10 +34,6 @@ Sou uma pessoa apaixonada pelo que faço, buscando não apenas criar código, ma
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
